@@ -1,0 +1,63 @@
+C:\Users\ET26\Desktop\mp3\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ET26\Desktop\mp3\mp3\mp3\obj\x86\Debug\mp3.csproj.GenerateResource.Cache
+C:\Users\ET26\Desktop\mp3\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Player.resources
+C:\Users\ET26\Desktop\mp3\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\ET26\Desktop\mp3\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\ET26\Desktop\mp3\mp3\mp3\obj\x86\Debug\mp3.exe
+C:\Users\ET26\Desktop\mp3\mp3\mp3\obj\x86\Debug\mp3.pdb
+C:\Users\Windows 8.1\Desktop\08 de julio\mp3\mp3\obj\x86\Debug\mp3.exe
+C:\Users\Windows 8.1\Desktop\08 de julio\mp3\mp3\obj\x86\Debug\mp3.pdb
+C:\Users\Windows 8.1\Desktop\08 de julio\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\Windows 8.1\Desktop\08 de julio\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\Windows 8.1\Desktop\08 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Player.resources
+C:\Users\Windows 8.1\Desktop\08 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Windows 8.1\Desktop\08 de julio\mp3\mp3\obj\x86\Debug\mp3.csproj.GenerateResource.Cache
+C:\Users\Windows 8.1\Desktop\08 de julio\mp3\mp3\obj\x86\Debug\mp3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\09 de julio\mp3\mp3\obj\x86\Debug\mp3.exe
+C:\Users\ET26\Desktop\09 de julio\mp3\mp3\obj\x86\Debug\mp3.pdb
+C:\Users\ET26\Desktop\09 de julio\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\ET26\Desktop\09 de julio\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\ET26\Desktop\09 de julio\mp3\mp3\obj\x86\Debug\mp3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\09 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Player.resources
+C:\Users\ET26\Desktop\09 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ET26\Desktop\09 de julio\mp3\mp3\obj\x86\Debug\mp3.csproj.GenerateResource.Cache
+C:\Users\ET26\Desktop\10 de julio\mp3\mp3\obj\x86\Debug\mp3.exe
+C:\Users\ET26\Desktop\10 de julio\mp3\mp3\obj\x86\Debug\mp3.pdb
+C:\Users\ET26\Desktop\10 de julio\mp3\mp3\obj\x86\Debug\mp3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\10 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Player.resources
+C:\Users\ET26\Desktop\10 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ET26\Desktop\10 de julio\mp3\mp3\obj\x86\Debug\mp3.csproj.GenerateResource.Cache
+C:\Users\ET26\Desktop\10 de julio\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\ET26\Desktop\10 de julio\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\Windows 8.1\Desktop\16 de julio\mp3\mp3\obj\x86\Debug\mp3.exe
+C:\Users\Windows 8.1\Desktop\16 de julio\mp3\mp3\obj\x86\Debug\mp3.pdb
+C:\Users\Windows 8.1\Desktop\16 de julio\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\Windows 8.1\Desktop\16 de julio\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\Windows 8.1\Desktop\16 de julio\mp3\mp3\obj\x86\Debug\mp3.csprojResolveAssemblyReference.cache
+C:\Users\Windows 8.1\Desktop\16 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Player.resources
+C:\Users\Windows 8.1\Desktop\16 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Windows 8.1\Desktop\16 de julio\mp3\mp3\obj\x86\Debug\mp3.csproj.GenerateResource.Cache
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Debug\mp3.exe
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Debug\mp3.pdb
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Debug\mp3.csprojResolveAssemblyReference.cache
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Player.resources
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Debug\mp3.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\17 de julio\mp3\mp3\obj\x86\Debug\mp3.exe
+C:\Users\Alumno\Desktop\17 de julio\mp3\mp3\obj\x86\Debug\mp3.pdb
+C:\Users\Alumno\Desktop\17 de julio\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\Alumno\Desktop\17 de julio\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\Alumno\Desktop\17 de julio\mp3\mp3\obj\x86\Debug\mp3.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\17 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Player.resources
+C:\Users\Alumno\Desktop\17 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alumno\Desktop\17 de julio\mp3\mp3\obj\x86\Debug\mp3.csproj.GenerateResource.Cache
+C:\Users\Benito\Desktop\Nueva carpeta\17 de julio\mp3\mp3\obj\x86\Debug\mp3.exe
+C:\Users\Benito\Desktop\Nueva carpeta\17 de julio\mp3\mp3\obj\x86\Debug\mp3.pdb
+C:\Users\Benito\Desktop\Nueva carpeta\17 de julio\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\Benito\Desktop\Nueva carpeta\17 de julio\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\Benito\Desktop\Nueva carpeta\17 de julio\mp3\mp3\obj\x86\Debug\mp3.csprojResolveAssemblyReference.cache
+C:\Users\Benito\Desktop\Nueva carpeta\17 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Player.resources
+C:\Users\Benito\Desktop\Nueva carpeta\17 de julio\mp3\mp3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Benito\Desktop\Nueva carpeta\17 de julio\mp3\mp3\obj\x86\Debug\mp3.csproj.GenerateResource.Cache

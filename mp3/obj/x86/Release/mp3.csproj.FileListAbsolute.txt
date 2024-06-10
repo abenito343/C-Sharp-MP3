@@ -1,0 +1,7 @@
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\bin\Release\mp3.exe
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\bin\Release\mp3.pdb
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Release\WindowsFormsApplication1.Player.resources
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Release\mp3.csproj.GenerateResource.Cache
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Release\mp3.exe
+C:\Users\ET26\Desktop\16 de julio terminado\mp3\mp3\obj\x86\Release\mp3.pdb
